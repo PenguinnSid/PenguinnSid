@@ -24,7 +24,7 @@ I’m particularly interested in the intersection of Game Dev and Reinforcement 
 
 **CUDA | GPU Programming**
 
-Learning about accelerating GPU performance using CUDA.
+Learning about accelerating performance using CUDA.
 
 ## Tech Stack
 
