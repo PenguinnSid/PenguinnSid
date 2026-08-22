@@ -1,9 +1,4 @@
 <div align="center">
-  <img src="./saber.png" width="800">
-</div>
-
-
-<div align="center">
 
 ## Sup, I'm Siddhartha
 
@@ -30,7 +25,6 @@ B.Tech CSE | Specialization in Artifical Intelligence and Data Science
 
 **CUDA | Unity**
 
-
 ## Tech Stack
 
 ### Languages
@@ -55,7 +49,6 @@ B.Tech CSE | Specialization in Artifical Intelligence and Data Science
 ![Godot](https://img.shields.io/badge/Godot-333333?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-333333?style=for-the-badge&logo=nvidia&logoColor=white)
 
-
 ## Featured Projects
 
 ### [DSP-Assisted Residual RF Denoising (Ongoing)](https://github.com/PenguinnSid/DSP-Assisted-Residual-RF-Denoising-)
@@ -65,7 +58,6 @@ A hybrid DSP + deep learning pipeline for removing residual noise from BPSK/QPSK
 ### [Reinforcement Learning Platformer](https://github.com/PenguinnSid/Reinforcement-Learning-2d-Platformer)
 
 A PPO based agent trained to navigate a 2D platformer using a custom Gymnasium environment and Godot game engine.
-
 
 ## GitHub Stats
 
