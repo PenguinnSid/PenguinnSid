@@ -18,10 +18,13 @@ I enjoy experimenting with and building cool stuff (that may or may not be usefu
 
 **Machine Learning | Deep Learning | Reinforcement Learning | Game Dev | GPU Computing | Competitive Programming**
 
+I’m particularly interested in the intersection of Game Dev and Reinforcement Learning.
 
 ## Currently Learning
 
 **CUDA | GPU Programming | Unity**
+
+Learning about accelerating GPU performance using CUDA.
 
 ## Tech Stack
 
@@ -52,7 +55,9 @@ I enjoy experimenting with and building cool stuff (that may or may not be usefu
 ### [ 📡 DSP-Assisted Residual RF Denoising (Ongoing)](https://github.com/PenguinnSid/DSP-Assisted-Residual-RF-Denoising-)
 
 A hybrid DSP + deep learning pipeline for removing residual noise from BPSK/QPSK RF signals under AWGN and Rayleigh fading.
+Working to implement CNN, LSTM and Autoencoder and evaluate their performances.
 
 ### [ 🎮 Reinforcement Learning Platformer](https://github.com/PenguinnSid/Reinforcement-Learning-2d-Platformer)
 
-A PPO based agent trained to navigate a 2D platformer using a custom Gymnasium environment and Godot game engine.
+RL agent trained to navigate a 2D platformer using a custom Gymnasium environment and Godot game engine.
+Uses Proximal Policy Optimization with a discrete action space for movement and custom rewards.
