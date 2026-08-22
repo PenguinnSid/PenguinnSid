@@ -22,7 +22,7 @@ I’m particularly interested in the intersection of Game Dev and Reinforcement 
 
 ## Currently Learning
 
-**CUDA | GPU Programming | Unity**
+**CUDA | GPU Programming**
 
 Learning about accelerating GPU performance using CUDA.
 
