@@ -6,21 +6,34 @@
 
 </div>
 
-### Bio: 
+## Bio: 
 
-Third Year CS Undergrad
+Third Year CS Undergrad @ MIT-WPU
 
-Enjoy experimenting with and making cool stuff (that may or may not be useful).
+I enjoy experimenting with and making cool stuff (that may or may not be useful).
 
-**B.Tech CSE | Specialization in Artifical Intelligence and Data Science**
 
-### Areas of Interest:
+B.Tech CSE | Specialization in Artifical Intelligence and Data Science
+
+<div align="center">
+  <img src="./sideways-saber.png" width="800">
+</div>
+
+## Areas of Interest:
 
 **Machine Learning | Deep Learning | Reinforcement Learning | Game Dev | GPU Computing | Competitive Programming**
 
-### Currently Learning: 
+<div align="center">
+  <img src="./sideways-saber.png" width="800">
+</div>
+
+## Currently Learning: 
 
 **CUDA | Unity**
+
+<div align="center">
+  <img src="./sideways-saber.png" width="800">
+</div>
 
 ## Tech Stack
 
@@ -46,6 +59,10 @@ Enjoy experimenting with and making cool stuff (that may or may not be useful).
 ![Godot](https://img.shields.io/badge/Godot-333333?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-333333?style=for-the-badge&logo=nvidia&logoColor=white)
 
+<div align="center">
+  <img src="./sideways-saber.png" width="800">
+</div>
+
 ## Featured Projects
 
 ### [DSP-Assisted Residual RF Denoising (Ongoing)](https://github.com/PenguinnSid/DSP-Assisted-Residual-RF-Denoising-)
@@ -56,10 +73,16 @@ A hybrid DSP + deep learning pipeline for removing residual noise from BPSK/QPSK
 
 A PPO based agent trained to navigate a 2D platformer using a custom Gymnasium environment and Godot game engine.
 
-## Stats
+<div align="center">
+  <img src="./sideways-saber.png" width="800">
+</div>
+
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&hide_rank=true&hide=issues,prs&hide_border=true&theme=dark&bg_color=00000000&include_all_commits=true&count_private=true" height="180">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" height="170">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=00000000" height="170">
 
 </div>
