@@ -16,7 +16,7 @@ I enjoy experimenting with and making cool stuff (that may or may not be useful)
 B.Tech CSE | Specialization in Artifical Intelligence and Data Science
 
 <div align="center">
-  <img src="./sideways-saber.png" width="800">
+  <img src="./saber.png" width="800">
 </div>
 
 ## Areas of Interest:
@@ -24,7 +24,7 @@ B.Tech CSE | Specialization in Artifical Intelligence and Data Science
 **Machine Learning | Deep Learning | Reinforcement Learning | Game Dev | GPU Computing | Competitive Programming**
 
 <div align="center">
-  <img src="./sideways-saber.png" width="800">
+  <img src="./saber.png" width="800">
 </div>
 
 ## Currently Learning: 
@@ -32,7 +32,7 @@ B.Tech CSE | Specialization in Artifical Intelligence and Data Science
 **CUDA | Unity**
 
 <div align="center">
-  <img src="./sideways-saber.png" width="800">
+  <img src="./saber.png" width="800">
 </div>
 
 ## Tech Stack
@@ -60,7 +60,7 @@ B.Tech CSE | Specialization in Artifical Intelligence and Data Science
 ![CUDA](https://img.shields.io/badge/CUDA-333333?style=for-the-badge&logo=nvidia&logoColor=white)
 
 <div align="center">
-  <img src="./sideways-saber.png" width="800">
+  <img src="./saber.png" width="800">
 </div>
 
 ## Featured Projects
@@ -74,7 +74,7 @@ A hybrid DSP + deep learning pipeline for removing residual noise from BPSK/QPSK
 A PPO based agent trained to navigate a 2D platformer using a custom Gymnasium environment and Godot game engine.
 
 <div align="center">
-  <img src="./sideways-saber.png" width="800">
+  <img src="./saber.png" width="800">
 </div>
 
 ## GitHub Stats
