@@ -1,4 +1,9 @@
 <div align="center">
+  <img src="./saber.png" width="800">
+</div>
+
+
+<div align="center">
 
 ## Sup, I'm Siddhartha
 
@@ -15,25 +20,16 @@ I enjoy experimenting with and making cool stuff (that may or may not be useful)
 
 B.Tech CSE | Specialization in Artifical Intelligence and Data Science
 
-<div align="center">
-  <img src="./saber.png" width="800">
-</div>
 
 ## Areas of Interest:
 
 **Machine Learning | Deep Learning | Reinforcement Learning | Game Dev | GPU Computing | Competitive Programming**
 
-<div align="center">
-  <img src="./saber.png" width="800">
-</div>
 
 ## Currently Learning: 
 
 **CUDA | Unity**
 
-<div align="center">
-  <img src="./saber.png" width="800">
-</div>
 
 ## Tech Stack
 
@@ -59,9 +55,6 @@ B.Tech CSE | Specialization in Artifical Intelligence and Data Science
 ![Godot](https://img.shields.io/badge/Godot-333333?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-333333?style=for-the-badge&logo=nvidia&logoColor=white)
 
-<div align="center">
-  <img src="./saber.png" width="800">
-</div>
 
 ## Featured Projects
 
@@ -73,9 +66,6 @@ A hybrid DSP + deep learning pipeline for removing residual noise from BPSK/QPSK
 
 A PPO based agent trained to navigate a 2D platformer using a custom Gymnasium environment and Godot game engine.
 
-<div align="center">
-  <img src="./saber.png" width="800">
-</div>
 
 ## GitHub Stats
 
