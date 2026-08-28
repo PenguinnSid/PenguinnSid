@@ -2,8 +2,6 @@
 
 ## Sup, I'm Siddhartha
 
-  <img src="./Hello_There.gif" width="500">
-
 </div>
 
 ## Bio
