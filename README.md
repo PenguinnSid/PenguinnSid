@@ -38,15 +38,18 @@ Learning about accelerating performance using CUDA.
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-333333?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-333333?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-333333?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-333333?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-333333?style=for-the-badge&logo=scipy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-333333?style=for-the-badge&logo=opencv&logoColor=white)
 ![Gymnasium](https://img.shields.io/badge/Gymnasium-333333?style=for-the-badge&logo=python&logoColor=white)
 ![Stable Baselines3](https://img.shields.io/badge/Stable--Baselines3-333333?style=for-the-badge&logo=python&logoColor=white)
 
 ### Tools & Technologies
 
-![Unity](https://img.shields.io/badge/Unity-333333?style=for-the-badge&logo=unity&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-333333?style=for-the-badge&logo=godot-engine&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-333333?style=for-the-badge&logo=nvidia&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-333333?style=for-the-badge&logo=unity&logoColor=white)
 
 ## Featured Projects
 
