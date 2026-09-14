@@ -7,7 +7,7 @@
 ## Bio
 
 Third Year CSE Undergraduate @ MIT-WPU  
-AI & Data Science
+Specialization in AI & Data Science
 
 I enjoy experimenting with and building cool stuff (that may or may not be useful).
 
@@ -16,7 +16,7 @@ I enjoy experimenting with and building cool stuff (that may or may not be usefu
 
 **Machine Learning | Deep Learning | Reinforcement Learning | Game Dev | GPU Computing | Competitive Programming**
 
-I’m particularly interested in the intersection of Game Dev and Reinforcement Learning.
+Particularly interested in the intersection of Game Dev and Reinforcement Learning.
 
 ## Currently Learning
 
@@ -56,7 +56,7 @@ Learning about accelerating performance using CUDA.
 ### [ 📡 DSP-Assisted Residual RF Denoising (Ongoing)](https://github.com/PenguinnSid/DSP-Assisted-Residual-RF-Denoising-)
 
 A hybrid DSP + deep learning pipeline for removing residual noise from BPSK/QPSK RF signals under AWGN and Rayleigh fading.
-Working to implement CNN, LSTM and Autoencoder and evaluate their performances.
+Working to implement CNN, LSTM and Autoencoder for AWGN prediction and evaluate their performances.
 
 ### [ 🎮 Reinforcement Learning Platformer](https://github.com/PenguinnSid/Reinforcement-Learning-2d-Platformer)
 
